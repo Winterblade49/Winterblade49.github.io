@@ -3,19 +3,19 @@
 ------------------------
 | Currently working on |    
 ------------------------
- -Working on UE5 Shooter
+ -Working on UE5 Shooter-
     .catologing guns/weapons
-##########################
- -Working on Winter Story
+-##########################-
+ -Working on Winter Story-
    .basic outline done
-##########################
- -Working on Animation For Winter Story
+-##########################-
+ -Working on Animation For Winter Story-
    .3d modeling done
    .basic 3d animation done
-##########################
+-##########################-
 -------------------
 |Finished projects|
 -------------------
- -Basic Bootstrap
- -Basic HTML
- -Basic CSS Webpage
+ -Basic Bootstrap-
+ -Basic HTML-
+ -Basic CSS Webpage-
