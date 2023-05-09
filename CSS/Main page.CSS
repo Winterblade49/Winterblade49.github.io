@@ -1,0 +1,12 @@
+#Background{
+    background: url(../Images/Winter\ Banner.png) no-repeat 50% 50%;
+    background-attachment: fixed;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    width: 100%;
+    display: block;
+    height: auto;
+    padding-top: 350px;
+    padding-bottom: 500px;
+}
