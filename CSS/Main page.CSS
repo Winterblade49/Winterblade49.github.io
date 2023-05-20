@@ -1,4 +1,4 @@
-/*main background*/
+/*main background--------------------------------------------------------*/
 #Background{
     background: url(../Images/Winter\ Banner.png) no-repeat 50% 50%;
     background-attachment: fixed;
@@ -11,9 +11,9 @@
     padding-top: 350px;
     padding-bottom: 500px;
 }
-/*end main background*/
+/*end main background----------------------------------------------------*/
 
-/*start lightroom*/
+/*start lightroom--------------------------------------------------------*/
 
 /* Here you provide a best practice's "reset", read more about it at the bottom! :) */
 
@@ -166,4 +166,4 @@ html {
     background-color: rgba(0, 0, 0, 0.8);
   }
 
-  /*end lightroom*/
+  /*end lightroom------------------------*/

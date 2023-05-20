@@ -1,8 +1,7 @@
 
 
 
-//start of light box
-
+//start of light box--------------------------------------
 // Initialize here and run showSlide() to give your lightbox a default state.
 
 let slideIndex = 1;
@@ -56,4 +55,4 @@ function showSlide(n) {
   modalPreviews[slideIndex - 1].className += ' active';
 };
 
-//end of light box
+//end of light box----------------------------
