@@ -18,10 +18,14 @@
 |Finished projects|
 -------------------
   1.Basic Bootstrap
+  
   2.Basic HTML
+  
   3.Basic CSS Webpage
+  
   4.Tic Tac To
    -1 Bug top line doesnt activate win methoud
+   
   5.Calculator
  
   
