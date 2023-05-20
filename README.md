@@ -17,10 +17,10 @@
 -------------------
 |Finished projects|
 -------------------
- -Basic Bootstrap
- -Basic HTML
- -Basic CSS Webpage
- -Tic Tac To
- -Calculator
+ 1.Basic Bootstrap
+ 2.Basic HTML
+ 3.Basic CSS Webpage
+ 4.Tic Tac To
+ 5.Calculator
  
  
