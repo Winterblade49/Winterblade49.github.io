@@ -1,10 +1,46 @@
 body {
-  background-color: #000;
+  background-color: #071952;
   color: #fff;
   font-family: 'Comic Sans MS', cursive, sans-serif;
-  text-align: center;
-  margin: 0;
-  padding: 0;
+}
+
+header{
+  background-color: #000;
+  overflow: auto;
+}
+
+.header-logo{
+  float: left;
+  margin: 10px;
+}
+
+.links{
+  float: right;
+  padding-right: 10px;
+  border:solid #fff;
 }
 
 
+.project-list {
+  display: flex;
+  flex-direction: row; 
+  border:2px solid #000;
+  border-width: 2px;
+  align-items: center;
+  border-radius: 10%;
+}
+
+.project-item img{
+  object-fit: cover;
+  width: 60%; 
+  height: 100%;
+  margin: 2px; 
+  border: 2px solid #000; 
+  border-radius: 20%;
+}
+
+
+
+.center{
+  text-align: center;
+}
